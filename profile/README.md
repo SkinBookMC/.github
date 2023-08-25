@@ -1,6 +1,6 @@
 # Welcome to SkinBook - The Minecraft Skins Hub!
 
-Here is the place where you can discover what happens behind the scenes of the SkinBook website. Our organization is dedicated to providing Minecraft enthusiasts with an easy way to search for skins and look up users. Our website, [SkinBook](https://www.skinbook.com), offers two main functionalities:
+Here is the place where you can discover what happens behind the scenes of the SkinBook website. Our organization is dedicated to providing Minecraft enthusiasts with an easy way to search for skins and look up users. Our website, [SkinBook](http://skins.hs50.cc/), offers two main functionalities:
 
 ### 1. Skin Search
 
