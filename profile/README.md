@@ -4,7 +4,7 @@ Here is the place where you can discover what happens behind the scenes of the S
 
 ### 1. Skin Search
 
-Easily discover a plethora of Minecraft skins using our user-friendly search feature. Whether you're looking for a specific theme or style, our platform has a wide variety of skins to explore.
+Easily discover a plethora of Minecraft skins using our user-friendly likes system. Whether you're looking for a specific theme or style, our platform has a wide variety of skins to explore.
 
 ### 2. User Lookup
 
